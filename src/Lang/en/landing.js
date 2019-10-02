@@ -1,0 +1,20 @@
+//en/landing.js
+module.exports = {
+    pages : 'Проекты',
+    main : 'Main',
+    skill_tracking : 'Skill Tracking',
+    awesome : 'Breeze team official site',
+    awesome_text : 'A team of developers involved in creating web android ios applications.',
+    thanks : 'Thank you for supporting us!',
+    thanks_text : 'Let\'s get in touch on any of these platforms.',
+    fb : 'Like us on Facebook',
+    inst : 'Follow us on Instagram',
+    vk : 'Follow us on Vkontakte',
+    tw : 'Follow us on Twitter',
+    git : 'Star us on Github',
+    coders : 'Star us on Github',
+    coders_label : 'Breeze team',
+    about_us : 'About Us',
+    news : 'News',
+    signature : 'Breeze team official site.',
+}

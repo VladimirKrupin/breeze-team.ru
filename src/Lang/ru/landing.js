@@ -2,7 +2,7 @@
 module.exports = {
     pages : 'Проекты',
     main : 'Главная',
-    skill_tracking : 'skill_tracking',
+    skill_tracking : 'Skill Tracking',
     awesome : 'Breeze team официальный сайт',
     awesome_text : 'Команда разработчиков, занимающихся созданием web android ios приложений.',
     thanks : 'Спасибо Вам за поддержку!',

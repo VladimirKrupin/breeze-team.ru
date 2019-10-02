@@ -1,5 +1,18 @@
 <template>
     <footer class="footer has-cards">
+        <h2 style="color: #626662" class="row justify-content-center mb-5 h1">{{$lang.landing.our_projects}}</h2>
+        <div class="container container-lg">
+            <div class="row">
+                <div class="col-md-6 mb-5 mb-md-0">
+                    <h3 class="row justify-content-center mt-2 pb-2 text-uppercase font-weight-600 h1"><span style="color:rgba(46,168,244,0.72);text-shadow: 1px 1px 4px rgba(0,0,0,0.33)">Skill Tracking</span></h3>
+                    <div class="card card-lift--hover shadow border-0">
+                        <a target="_blank" :href="this.socials.skill" title="Skill Tracking">
+                            <img v-lazy="'img/theme/skill.png'" class="card-img">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">

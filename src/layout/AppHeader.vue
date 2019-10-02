@@ -43,7 +43,7 @@
                         <span class="nav-link-inner--text">{{$lang.landing.pages}}</span>
                     </a>
                     <router-link to="/" class="dropdown-item">{{$lang.landing.main}}</router-link>
-                    <router-link to="https://skill-tracking.com/" class="dropdown-item">{{$lang.landing.skill_tracking}}</router-link>
+                    <a target="_blank" :href="this.socials.skill" class="dropdown-item">{{$lang.landing.skill_tracking}}</a>
                 </base-dropdown>
 
                 <base-dropdown tag="li" class="nav-item">
@@ -68,21 +68,6 @@
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
-                </li>
-                <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <router-link to="/app">
-                        <span
-                           class="btn btn-neutral btn-icon">
-                                <span class="btn-inner--icon">
-                                    <i class="fa fa-play  mr-2"></i>
-                                </span>
-                            <span class="nav-link-inner--text">
-
-                                {{$lang.landing.start_app}}
-
-                            </span>
-                        </span>
-                    </router-link>
                 </li>
             </ul>
         </base-nav>

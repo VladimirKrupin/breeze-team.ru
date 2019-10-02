@@ -15,10 +15,11 @@ export default {
                         'fb':'https://www.facebook.com/profile.php?id=100021975798495',
                         'inst':'https://www.instagram.com/vladimir_togliatti/',
                         'tw':'https://twitter.com/Vladimir_Krpn',
-                        'coders_link':'https://vk.com/?id=244842255',
+                        'coders_link':'https://breeze-team.com',
                         'about_us':'https://vk.com/?id=244842255',
                         'news':'https://vk.com/?id=244842255',
                         'mit':'https://github.com/VladimirKrupin/breeze-team.ru/blob/master/LICENSE',
+                        'skill':'https://skill-tracking.com',
                     },
                     defaultHeaders: {
                         'Lang':localStorage.getItem('lang'),

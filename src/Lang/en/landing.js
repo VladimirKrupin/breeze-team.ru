@@ -17,4 +17,5 @@ module.exports = {
     about_us : 'About Us',
     news : 'News',
     signature : 'Breeze team official site.',
+    our_projects : 'Our projects',
 }

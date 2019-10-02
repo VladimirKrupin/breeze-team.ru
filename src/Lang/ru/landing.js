@@ -1,11 +1,5 @@
 //ru/landing.js
 module.exports = {
-    start_using : 'Начни сейчас',
-    started : 'С чего начать',
-    started_text : 'Подробная иструкция, которая поможет вам начать использовать наще приложение.',
-    started_video : 'Видео уроки',
-    start_app : 'Приложение',
-    started_video_text : 'Если не хотите читать, то смотрите наши обучающие видео.',
     pages : 'Проекты',
     main : 'Главная',
     skill_tracking : 'skill_tracking',
@@ -21,7 +15,6 @@ module.exports = {
     coders_label : 'Breeze team',
     about_us : 'О нас',
     news : 'Новости',
-    signature : 'Skill Tracking Официальный сайт.',
-    auth : 'Авторизация',
-    forgot : 'Забыли пароль?',
+    signature : 'Breeze team Официальный сайт.',
+    our_projects : 'Наши проекты',
 }

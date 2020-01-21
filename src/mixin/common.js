@@ -20,6 +20,7 @@ export default {
                         'news':'https://vk.com/?id=244842255',
                         'mit':'https://github.com/VladimirKrupin/breeze-team.ru/blob/master/LICENSE',
                         'skill':'https://skill-tracking.com',
+                        'gifkawood':'https:/gifkawood.ru',
                     },
                     defaultHeaders: {
                         'Lang':localStorage.getItem('lang'),

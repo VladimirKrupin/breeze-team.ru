@@ -43,7 +43,7 @@ Vue.config.productionTip = env.production();
 Vue.use(Argon);
 Vue.use(Lang);
 
-store.dispatch('profile/getAllowedLangs');
+store.dispatch('profile/getAllowedLangs/');
 
 Vue.mixin(commonMixin.get());
 

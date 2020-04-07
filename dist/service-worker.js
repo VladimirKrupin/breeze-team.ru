@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.876b5ab47aa314173330c3744a81ddb9.js"
+  "/precache-manifest.12dc5795059a04ce9e2e930e8fae52c7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "breeze-team"});

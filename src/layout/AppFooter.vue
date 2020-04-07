@@ -14,7 +14,7 @@
                 <div class="col-md-6 mb-5 mb-md-0">
                     <h3 class="row justify-content-center mt-2 pb-2 text-uppercase font-weight-600 h1"><span style="color:rgba(134,50,244,0.72);text-shadow: 1px 1px 4px rgba(0,0,0,0.33)">GIFKAWOOD</span></h3>
                     <div class="card card-lift--hover shadow border-0">
-                        <a target="_blank" :href="this.socials.gifkawood" title="Skill Tracking">
+                        <a target="_blank" href="https://gifkawood.ru" title="Skill Tracking">
                             <img v-lazy="'img/theme/gifkawood.png'" class="card-img">
                         </a>
                     </div>
